@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DELAY_CALIBRATION_TICKS	calibrate.c	32;"	d	file:
+LPS_PREC	calibrate.c	185;"	d	file:
+MAX_DIRECT_CALIBRATION_RETRIES	calibrate.c	33;"	d	file:
+calibrate_delay	calibrate.c	/^void calibrate_delay(void)$/;"	f
+calibrate_delay_converge	calibrate.c	/^static unsigned long calibrate_delay_converge(void)$/;"	f	file:
+calibrate_delay_direct	calibrate.c	/^static unsigned long calibrate_delay_direct(void)$/;"	f	file:
+calibrate_delay_is_known	calibrate.c	/^unsigned long __attribute__((weak)) calibrate_delay_is_known(void)$/;"	f
+calibration_delay_done	calibrate.c	/^void __attribute__((weak)) calibration_delay_done(void)$/;"	f
+lpj_fine	calibrate.c	/^unsigned long lpj_fine;$/;"	v
+lpj_setup	calibrate.c	/^static int __init lpj_setup(char *str)$/;"	f	file:
+preset_lpj	calibrate.c	/^unsigned long preset_lpj;$/;"	v
