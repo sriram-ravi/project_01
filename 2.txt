@@ -1,12 +1,6 @@
-2.txt
-Desktop
-Documents
-Downloads
-examples.desktop
-linux
-linux1
-Music
-Pictures
-Public
-Templates
-Videos
+sriram
+ravi
+sriram1
+ravi1
+sriram ravi
+
