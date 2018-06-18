@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 master copy
 
+=======
+training
+git
+svn
+>>>>>>> sharath
