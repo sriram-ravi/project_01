@@ -1,19 +1,9 @@
 <<<<<<< HEAD
-2.txt
-Desktop
-Documents
-linux1
-Music
-Pictures
-Public
-Templates
-Videos
+
+master copy
+
 =======
-bvfdfgdghj
-jkhughjgg
-hgfdzd
-22
-33
-44
-55
->>>>>>> 61ca20ac8d7c0d1aaca880e7ef310225358347da
+training
+git
+svn
+>>>>>>> sharath
