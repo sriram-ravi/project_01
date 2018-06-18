@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2.txt
 Desktop
 Documents
@@ -7,7 +8,15 @@ Pictures
 Public
 Templates
 Videos
+<<<<<<< HEAD
 Hello
 VVDN
 1234455
 7689065
+=======
+22
+33
+44
+55
+
+>>>>>>> cef2bfcda3f48f91764c1363876583ae4ba5ac65
